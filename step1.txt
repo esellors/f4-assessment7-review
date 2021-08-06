@@ -1,0 +1,33 @@
+STEP 1
+
+CI TOOL - TEAM CITY, JET BRAINS
+
+## DESCRIPTION
+TeamCity is a general-purpose CI/CD solution that allows the most flexibility for all sorts of workflows and development practices. It integrates with your building and testing tools, visualizes your DevOps pipelines in detail. Setting up your first pipeline takes less than 2 minutes and can be done through a simple UI without writing any code. It integrates with your build and test tools, keeps a history of your tests, flags unstable tests as flaky, and can even help you identify the exact commits that cause failures in your pipelines.
+
+## FEATURES
+- Integration
+- Easy set up
+- Maintains test history
+
+## LINKS
+Product: https://www.jetbrains.com/teamcity/
+Setup Instructions (Python): https://www.jetbrains.com/teamcity/tutorials/python-build-configure-test/
+
+## Pricing (tiers, trials), Inception date, download count, companies using this product
+
+
+REAL-TIME ERROR MONITORING - 
+
+## DESCRIPTION
+Resolve JavaScript errors with max efficiency, not max effort. Get actionable insights to resolve JavaScript performance issues with the ability to track, debug, and resolve JavaScript errors across platforms.
+
+## FEATURES
+- Trace View and Trace Navigator
+- Tracing on Front to Back End
+
+## LINKS
+Product: https://sentry.io/welcome/
+Set up Instructions (JavaScript): https://docs.sentry.io/platforms/javascript/
+
+## Pricing (tiers, trials), Inception date, download count, companies using this product

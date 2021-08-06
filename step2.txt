@@ -1,0 +1,14 @@
+const tinyArray = getSizedArray(10);
+const smallArray = getSizedArray(100);
+const mediumArray = getSizedArray(1000);
+const largeArray = getSizedArray(10000);
+const extraLargeArray = getSizedArray(100000);
+
+RESULTS FOR: XTRA LG / LARGE / MEDIUM / SMALL / TINY
+INSERT (unshift) X  X X
+1.07 S / 10.11 ms / 175.4 μs / 47.499 μs / 38.4 μs
+
+APPEND (push) X X
+3.07 ms / 513.4 μs / 187.9 μs / 144.3 μs / 144.7 μs
+
+large - small
